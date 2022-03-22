@@ -1,4 +1,4 @@
-# http server
+## http server
 
 How to run html file on localhost ?
 
@@ -22,7 +22,7 @@ Open Terminal (or iTerm) install Homebrew then run brew install live-server and 
 
 Thanks:)
 
-# PHP to server the files in http
+### PHP to server the files in http
 
 if PHP is installed run below command:
 
