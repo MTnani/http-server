@@ -16,7 +16,7 @@ by default port is 8080, if you want to run on different port: http-server fileN
 
 4> Go to your browser and type localhost:8080. Your Application should run there.
 
-# live server 
+## live server 
 
 Open Terminal (or iTerm) install Homebrew then run brew install live-server and run live-server.
 
