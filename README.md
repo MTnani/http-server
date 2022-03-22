@@ -1,6 +1,6 @@
-### http server
+#How to run html file on localhost ?
 
-How to run html file on localhost ?
+### http server
 
 You can run your file in http-server: https://www.npmjs.com/package/http-server
 
