@@ -20,10 +20,4 @@ by default port is 8080, if you want to run on different port: http-server fileN
 
 Open Terminal (or iTerm) install Homebrew then run brew install live-server and run live-server.
 
-### PHP server
-
-if PHP is installed run below command:
-
-php -S localhost:8000
-
 Thanks:)
