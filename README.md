@@ -13,7 +13,9 @@ You can run your file in http-server: https://www.npmjs.com/package/http-server
 if you have specific html file. Run following command in CMD. http-server fileName
 by default port is 8080
 
-If you want to run on different port: http-server fileName -p 90004> Go to your browser and type localhost:8080. Your Application should run there.
+If you want to run on different port: http-server fileName -p 9000
+
+4> Go to your browser and type localhost:8080. Your Application should run there.
 
 # live server On macOS:
 
