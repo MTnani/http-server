@@ -1,7 +1,7 @@
 # http server
 How to run html file on localhost ?
 
-You can run your file in http-server.
+You can run your file in http-server: https://www.npmjs.com/package/http-server
 
 1> Have Node.js installed in your system.
 
